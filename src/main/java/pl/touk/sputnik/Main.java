@@ -21,7 +21,7 @@ public final class Main {
     private static final int WIDTH = 120;
     /*
 
- * Here is a block comment2.
+ * Here is a block comment3.
  */
     private Main() {}
 
